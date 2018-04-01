@@ -147,23 +147,23 @@ public class MainActivity extends RxBaseActivity implements NavigationView.OnNav
                 // 离线缓存
                 startActivity(new Intent(MainActivity.this, OffLineDownloadActivity.class));
                 return true;
-            case R.id.item_vip:
+            /*case R.id.item_vip:
                 //大会员
                 startActivity(new Intent(MainActivity.this, VipActivity.class));
-                return true;
-            case R.id.item_favourite:
+                return true;*/
+            /*case R.id.item_favourite:
                 // 我的收藏
                 changeFragmentIndex(item, 1);
                 return true;
             case R.id.item_history:
                 // 历史记录
                 changeFragmentIndex(item, 2);
-                return true;
-            case R.id.item_group:
+                return true;*/
+            /*case R.id.item_group:
                 // 关注的人
                 changeFragmentIndex(item, 3);
-                return true;
-            case R.id.item_tracker:
+                return true;*/
+            /*case R.id.item_tracker:
                 // 我的钱包
                 changeFragmentIndex(item, 4);
                 return true;
@@ -172,7 +172,7 @@ public class MainActivity extends RxBaseActivity implements NavigationView.OnNav
                 return true;
             case R.id.item_app:
                 // 应用推荐
-                return true;
+                return true;*/
             case R.id.item_settings:
                 // 设置中心
                 changeFragmentIndex(item, 5);

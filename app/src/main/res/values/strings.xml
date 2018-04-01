@@ -4,10 +4,10 @@
     <string-array name="sections">
         <item>@string/section_live</item>
         <item>@string/section_recommend</item>
-        <item>@string/section_bangumi</item>
+        <!--<item>@string/section_bangumi</item>
         <item>@string/section_more</item>
         <item>@string/section_focus</item>
-        <item>@string/section_discover</item>
+        <item>@string/section_discover</item>-->
     </string-array>
 
     <string name="app_name">哔哩哔哩</string>
@@ -103,15 +103,15 @@
 
     <!-- Navigation Items -->
     <string name="item_home">主页</string>
-    <string name="item_group">关注的人</string>
-    <string name="item_tracker">我的钱包</string>
+    <!--<string name="item_group">关注的人</string>-->
+    <!--<string name="item_tracker">我的钱包</string>-->
     <string name="item_downloaded">离线缓存</string>
     <string name="item_favourite">我的收藏</string>
-    <string name="item_history">历史记录</string>
+    <!-- <string name="item_history">历史记录</string>-->
     <string name="item_settings">设置与帮助</string>
-    <string name="item_theme">主题选择</string>
-    <string name="item_app">应用推荐</string>
-    <string name="item_vip">我的大会员</string>
+    <!--<string name="item_theme">主题选择</string>
+    <string name="item_app">应用推荐</string>-->
+    <!--<string name="item_vip">我的大会员</string>-->
 
 
     <!--App 介绍-->
@@ -125,12 +125,12 @@
 
     <!--哔哩哔哩-->
     <string name="home_tab_more">更多</string>
-    <string name="section_recommend">推荐</string>
-    <string name="section_live">直播</string>
-    <string name="section_focus">关注</string>
-    <string name="section_more">分区</string>
+    <string name="section_recommend">动态</string>
+    <string name="section_live">推荐</string>
+    <!--<string name="section_focus">关注</string>-->
+    <!--<string name="section_more">分区</string>
     <string name="section_bangumi">番剧</string>
-    <string name="section_discover">发现</string>
+    <string name="section_discover">发现</string>-->
     <string name="level_text">LV2</string>
     <string name="vip_message_1">您还不是</string>
     <string name="vip">大会员</string>

@@ -110,7 +110,7 @@ public class HomeRegionFragment extends RxLazyFragment {
                     RegionTypesInfo.DataBean mBangumi = regionTypes.get(1);
                     RegionTypeDetailsActivity.launch(getActivity(), mBangumi);
                     break;
-                case 2:
+                /*case 2:
                     //动画
                     RegionTypesInfo.DataBean mAnimation = regionTypes.get(2);
                     RegionTypeDetailsActivity.launch(getActivity(), mAnimation);
@@ -172,7 +172,7 @@ public class HomeRegionFragment extends RxLazyFragment {
                 case 14:
                     // 游戏中心
                     startActivity(new Intent(getActivity(), GameCentreActivity.class));
-                    break;
+                    break;*/
                 default:
                     break;
             }

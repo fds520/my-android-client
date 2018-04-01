@@ -3,7 +3,7 @@
     {
       "tid": 65537,
       "reid": 0,
-      "name": "直播",
+      "name": "动态",
       "logo": "",
       "goto": "",
       "param": ""
@@ -14,8 +14,8 @@
       "name": "番剧",
       "logo": "",
       "goto": "",
-      "param": "",
-      "children": [
+      "param": ""
+      /*"children": [
         {
           "tid": 33,
           "reid": 13,
@@ -56,9 +56,9 @@
           "goto": "",
           "param": ""
         }
-      ]
-    },
-    {
+      ]*/
+    }
+    /*{
       "tid": 1,
       "reid": 0,
       "name": "动画",
@@ -607,7 +607,7 @@
       "logo": "http://i0.hdslb.com/bfs/archive/656df3124c81dd0e19bdc0a3e017091268b3db73.jpg",
       "goto": "",
       "param": ""
-    }
+    }*/
   ],
   "message": "",
   "ver": "15966009282371228957"
